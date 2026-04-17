@@ -1,0 +1,2 @@
+# lab-colaborativo
+Repositório dedicado a atividade prática - Configuração de Ambiente Colaborativo (GitHub)
